@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "subTitle": "Drama",
+    "image": "https://image.tmdb.org/t/p/w500/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "subTitle": "Drama",
+    "image": "https://image.tmdb.org/t/p/w500/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Godfather: Part II",
+    "subTitle": "Drama",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "subTitle": "Drama",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  }
+]
